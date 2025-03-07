@@ -1,0 +1,488 @@
+# Blender 4.3.2 MTL File: 'finalv1.blend'
+# www.blender.org
+
+newmtl 01___12244_Bird
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Bird_v1_L2.123cb814020f-465b-4f20-914e-fec150f52d6c/12244_Bird_diff.jpg
+
+newmtl 01___Default
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10014_dolphin_v1_Diffuse.jpg
+
+newmtl 01___Default.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10014_dolphin_v1_Diffuse.jpg
+
+newmtl 10012_crab
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10012_crab_V2_L3.123cf355fcb2-ae83-4006-ab6d-f630e2086b70/10012_crab_v1_Diffuse.jpg
+
+newmtl 10040_Rhinoceros_v1
+Ns 29.000002
+Ka 1.000000 1.000000 1.000000
+Ks 0.117000 0.117000 0.117000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Seagull_v1_L3.123cfebf3ad7-eca4-4958-ba93-db1be4baed01/10043_Seagull_v1_Diffuse.jpg
+
+newmtl 10041_SeaLion_v1
+Ns 26.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.252000 0.252000 0.252000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd SeaLion_v2_L3.123c1835a00f-b171-4e58-82d9-4bb68fedcc9e/10041_sealion_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd palmier_sper/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 12274_Lizard
+Ns 43.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.396000 0.396000 0.396000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Lizard_v1_L2.123c52269ca9-d9c0-4765-a5e8-df00cbb291b8/12274_Lizard_diff.jpg
+map_Bump Lizard_v1_L2.123c52269ca9-d9c0-4765-a5e8-df00cbb291b8/Map__3_Normal Bump.jpg
+
+newmtl 12275_Lizard
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Lizard_v1_L2.123c5edadad4-39df-4626-8083-73766829ed63/12275_Lizars_Diffuse.jpg
+map_Bump Lizard_v1_L2.123c5edadad4-39df-4626-8083-73766829ed63/12275_Lizars_Bump.jpg
+
+newmtl Fern_Tree_texture
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd fern/fern_tree_diffuse.png
+map_d fern/fern_tree_opacity.png
+
+newmtl Mat
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd pluta/DefaultMaterial_Base_Color.png
+map_Ns pluta/DefaultMaterial_Roughness.png
+map_refl pluta/DefaultMaterial_Metallic.png
+map_Bump -bm 1.000000 pluta/DefaultMaterial_Normal.png
+
+newmtl Material.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture/wood1.jpg
+
+newmtl Material.002
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Texture/wood1.jpg
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Log_on_the_beach_scan_21_51K_baseTexBaked.png
+
+newmtl Material.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 1_sea water texture-seamless.jpg
+
+newmtl Material.011
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 6_beach sand texture-seamless.jpg
+map_Ns trailer/rock_roughness.png
+map_refl trailer/rock_metallic.png
+map_Bump -bm 1.000000 trailer/rock_normal.png
+
+newmtl Material.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd rock/TextureMaps/10-diffuse.png
+map_Ks rock/TextureMaps/12-specular.png
+map_Bump -bm 1.000000 rock/TextureMaps/11-normal_normals.png
+
+newmtl Nurse_Shark_Tris_Material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Nurse_Shark_Tris_Diffuse.png
+map_Ns Nurse_Shark_Tris_Roughness.png
+map_Bump -bm 1.000000 Nurse_Shark_Tris_Normal.png
+
+newmtl PBS_SG
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd barcaNoua/Boat_color.tga
+map_Ns barcaNoua/Boat_rough.tga
+map_refl barcaNoua/Boat_metalness.tga
+map_Bump -bm 1.000000 barcaNoua/Boat_nrm.tga
+
+newmtl StingrayPBS1SG
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd barcaNoua/Oar_color.tga
+map_Ns barcaNoua/Oar_rough.tga
+map_refl barcaNoua/Oar_metalness.tga
+map_Bump -bm 1.000000 barcaNoua/Oar_nrm.tga
+
+newmtl _20446_Sea_Turtle_v120446_Sea_Turtle
+Ns 27.000002
+Ka 1.000000 1.000000 1.000000
+Ks 0.322633 0.322633 0.322633
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Sea_Turtle_v1_L1.123ce38b0eb1-f1c7-4e2c-a4b5-f1ca0427035b/20446_Sea_Turtle_diff.jpg
+
+newmtl band
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cottage_obj/m1.jpg
+
+newmtl bretter
+Ns 7.464265
+Ka 1.000000 1.000000 1.000000
+Ks 0.070588 0.070588 0.070588
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cottage_obj/WoodRough0021_L90.jpg
+map_Bump cottage_obj/WoodRough0021_L90.jpg
+
+newmtl door
+Ns 8.000002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd cottage_obj/door12+.jpg
+map_Bump cottage_obj/door12+b.jpg
+
+newmtl door2
+Ns 8.000002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd cottage_obj/door12+.jpg
+map_Bump cottage_obj/door12+b.jpg
+
+newmtl door_met
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cottage_obj/door12+.jpg
+map_Ns cottage_obj/door12+b.jpg
+map_refl cottage_obj/door12+b.jpg
+map_Bump cottage_obj/door12+b.jpg
+
+newmtl eimer
+Ns 5.656846
+Ka 1.000000 1.000000 1.000000
+Ks 0.040000 0.040000 0.040000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cottage_obj/WoodRough0021_L90.jpg
+
+newmtl eimerboden
+Ns 5.656846
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cottage_obj/WoodRough0021_L90.jpg
+
+newmtl gruenzeug
+Ns 8.000002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd cottage_obj/leafs.jpg
+
+newmtl henkel
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cottage_obj/m1.jpg
+
+newmtl henkelahlter
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cottage_obj/m1.jpg
+
+newmtl material0000
+Ns 1.000003
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Material,Texture.jpg
+
+newmtl nagel
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cottage_obj/m1.jpg
+
+newmtl niete
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cottage_obj/m1.jpg
+
+newmtl roof
+Ns 9.189586
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd cottage_obj/stroh_4d.jpg
+map_Bump cottage_obj/stroh_4d.jpg
+
+newmtl roof2
+Ns 9.189586
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd cottage_obj/stroh_4d.jpg
+
+newmtl roof_
+Ns 5.656846
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd cottage_obj/stroh_4e.jpg
+map_d cottage_obj/strohalp.jpg
+map_Bump cottage_obj/stroh_4d.jpg
+
+newmtl scene_material
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd barrel/Barrel/Barrel_Scene_Material_BaseColor.png
+map_Ns barrel/Barrel/Barrel_Scene_Material_Roughness.png
+map_refl barrel/Barrel/Barrel_Scene_Material_Metallic.png
+map_Bump -bm 1.000000 barrel/Barrel/Barrel_Scene_Material_Normal.png
+
+newmtl scene_material1
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd barrel/Barrel/Barrel_Scene_Material_BaseColor.png
+map_Ns barrel/Barrel/Barrel_Scene_Material_Roughness.png
+map_refl barrel/Barrel/Barrel_Scene_Material_Metallic.png
+map_Bump -bm 1.000000 barrel/Barrel/Barrel_Scene_Material_Normal.png
+
+newmtl stones
+Ns 9.189586
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cottage_obj/IMG_0367.jpg
+map_Bump cottage_obj/IMG_0367A.jpg
+
+newmtl wall
+Ns 14.928502
+Ka 1.000000 1.000000 1.000000
+Kd 0.165647 0.165647 0.165647
+Ks 0.047686 0.047686 0.047686
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl wheel
+Ns 5.656846
+Ka 1.000000 1.000000 1.000000
+Ks 0.039216 0.039216 0.039216
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cottage_obj/wheelb.jpg
+
+newmtl wheel2
+Ns 8.000002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd cottage_obj/IMG_0367.jpg
+
+newmtl wheel3
+Ns 8.000002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd cottage_obj/wheelb.jpg
+
+newmtl wheel_met
+Ns 39.396587
+Ka 1.000000 1.000000 1.000000
+Ks 0.258824 0.258824 0.258824
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cottage_obj/m1.jpg
+map_Bump cottage_obj/m1.jpg
+
+newmtl window1
+Ns 8.000002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd cottage_obj/door12+.jpg
+map_Bump cottage_obj/door12+.jpg
