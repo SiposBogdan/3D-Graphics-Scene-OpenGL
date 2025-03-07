@@ -1,6 +1,7 @@
 # 3D Graphics Scene Presentation
 
 This project presents an interactive 3D scene using graphical libraries like OpenGL, GLFW, and GLM. The application allows users to manipulate the scene and view it from different perspectives.
+![Captură de ecran 2025-01-14 131301](https://github.com/user-attachments/assets/cdb7cbea-fa20-4d74-9fb0-ac6d33276673)
 
 ## Features
 
